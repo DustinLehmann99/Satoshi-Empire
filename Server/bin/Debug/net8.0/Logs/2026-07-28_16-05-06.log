@@ -1,0 +1,59 @@
+[2026-07-28 16:03:54] [SERVER] Logger initialized.
+[2026-07-28 16:03:54] [INFO] Server starting...
+[2026-07-28 16:03:54] [INFO] Server ready.
+[2026-07-28 16:03:54] [INFO] Game loop started.
+[2026-07-28 16:03:54] [INFO] HTTP listening on http://localhost:8080/
+[2026-07-28 16:03:56] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:57] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:00] [INFO] Packet received: {"Type":"Login","Version":"0.1.9.2","PlayerId":"001"}
+[2026-07-28 16:04:00] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:01] [INFO] 001 mined 1 satoshi. Total: 7045
+[2026-07-28 16:04:01] [INFO] 001 mined 10 satoshi. Total: 7055
+[2026-07-28 16:04:01] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:02] [INFO] 001 mined 1 satoshi. Total: 7056
+[2026-07-28 16:04:02] [INFO] 001 mined 10 satoshi. Total: 7066
+[2026-07-28 16:04:02] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:03] [INFO] 001 mined 1 satoshi. Total: 7067
+[2026-07-28 16:04:03] [INFO] 001 mined 10 satoshi. Total: 7077
+[2026-07-28 16:04:03] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:04] [INFO] 001 mined 1 satoshi. Total: 7078
+[2026-07-28 16:04:04] [INFO] 001 mined 10 satoshi. Total: 7088
+[2026-07-28 16:04:04] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:05] [INFO] 001 mined 1 satoshi. Total: 7089
+[2026-07-28 16:04:05] [INFO] 001 mined 10 satoshi. Total: 7099
+[2026-07-28 16:04:05] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:06] [INFO] 001 mined 1 satoshi. Total: 7100
+[2026-07-28 16:04:06] [INFO] 001 mined 10 satoshi. Total: 7110
+[2026-07-28 16:04:06] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:07] [INFO] 001 mined 1 satoshi. Total: 7111
+[2026-07-28 16:04:07] [INFO] 001 mined 10 satoshi. Total: 7121
+[2026-07-28 16:04:07] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:08] [INFO] 001 mined 1 satoshi. Total: 7122
+[2026-07-28 16:04:08] [INFO] 001 mined 10 satoshi. Total: 7132
+[2026-07-28 16:04:08] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:09] [INFO] 001 mined 1 satoshi. Total: 7133
+[2026-07-28 16:04:09] [INFO] 001 mined 10 satoshi. Total: 7143
+[2026-07-28 16:04:09] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:10] [INFO] 001 mined 1 satoshi. Total: 7144
+[2026-07-28 16:04:10] [INFO] 001 mined 10 satoshi. Total: 7154
+[2026-07-28 16:04:10] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:11] [INFO] 001 mined 1 satoshi. Total: 7155
+[2026-07-28 16:04:11] [INFO] 001 mined 10 satoshi. Total: 7165
+[2026-07-28 16:04:11] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:12] [INFO] 001 mined 1 satoshi. Total: 7166
+[2026-07-28 16:04:12] [INFO] 001 mined 10 satoshi. Total: 7176
+[2026-07-28 16:04:12] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:13] [INFO] 001 mined 1 satoshi. Total: 7177
+[2026-07-28 16:04:13] [INFO] 001 mined 10 satoshi. Total: 7187
+[2026-07-28 16:04:13] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:14] [INFO] 001 mined 1 satoshi. Total: 7188
+[2026-07-28 16:04:14] [INFO] 001 mined 10 satoshi. Total: 7198
+[2026-07-28 16:04:14] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:15] [INFO] 001 mined 1 satoshi. Total: 7199
+[2026-07-28 16:04:15] [INFO] 001 mined 10 satoshi. Total: 7209
+[2026-07-28 16:04:15] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:16] [INFO] 001 mined 1 satoshi. Total: 7210
+[2026-07-28 16:04:16] [INFO] 001 mined 10 satoshi. Total: 7220
+[2026-07-28 16:04:16] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:04:17] [INFO] 001 mined 1 satoshi. Total: 7221
+[2026-07-28 16:04:17] [INFO] 001 mined 10 satoshi. Total: 7231

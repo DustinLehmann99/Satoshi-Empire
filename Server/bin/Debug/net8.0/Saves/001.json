@@ -1,0 +1,29 @@
+{
+  "Id": "001",
+  "Name": "Player",
+  "Created": "2026-07-28T12:44:16.446016Z",
+  "Wallet": {
+    "Satoshi": 7231,
+    "Bitcoin": 0.00007231
+  },
+  "Miners": [
+    {
+      "Id": "c37dc4e5-690f-4d6f-9d80-1f8d4c6b6676",
+      "Name": "Friend\u0027s Old Satoshi Miner",
+      "Hashrate": 1,
+      "Efficiency": 1,
+      "Condition": 100,
+      "LastReward": 1,
+      "Active": true
+    },
+    {
+      "Id": "64b74aaa-f58d-4bb3-9853-67eb3a4cf2cc",
+      "Name": "Basic ASIC Miner",
+      "Hashrate": 10,
+      "Efficiency": 1,
+      "Condition": 100,
+      "LastReward": 10,
+      "Active": true
+    }
+  ]
+}

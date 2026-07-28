@@ -1,0 +1,7 @@
+[2026-07-28 16:05:06] [SERVER] Logger initialized.
+[2026-07-28 16:05:06] [INFO] Server starting...
+[2026-07-28 16:05:06] [INFO] Server ready.
+[2026-07-28 16:05:06] [INFO] Game loop started.
+[2026-07-28 16:05:06] [INFO] HTTP listening on http://localhost:8080/
+[2026-07-28 16:05:11] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:05:12] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <output>
+    <movie fps="32"/>
+    <movie platform="AIR"/>
+    <movie version="32"/>
+    <movie background="#FFFFFF"/>
+    <movie disabled="False"/>
+    <movie path="bin-debug/Client.swf"/>
+    <movie height="600"/>
+    <movie input=""/>
+    <movie width="800"/>
+  </output>
+  &lt;!-- Other classes to be compiled into your SWF --&gt;
+  <jsOutput>
+    <option path="/Users/dustin/Desktop/Satoshi Empire/Client"/>
+  </jsOutput>
+  <classpaths>
+    <class path="src"/>
+  </classpaths>
+  <moonshineResourcePaths></moonshineResourcePaths>
+  <moonshineNativeExtensionPaths></moonshineNativeExtensionPaths>
+  <build>
+    <option showActionScriptWarnings="True"/>
+    <option staticLinkRSL="False"/>
+    <option accessible="False"/>
+    <option additional=""/>
+    <option loadConfig=""/>
+    <option compilerConstants=""/>
+    <option useNetwork="True"/>
+    <option customSDK="/Users/dustin/Documents/MoonshineSDKs/Flex_SDK/Flex_4.16.1_AIR_32.0"/>
+    <option optimize="False"/>
+    <option sourceMap="False"/>
+    <option locale=""/>
+    <option antBuildPath="build/build.xml"/>
+    <option showBindingWarnings="True"/>
+    <option es="False"/>
+    <option warnings="True"/>
+    <option strict="True"/>
+    <option useResourceBundleMetadata="True"/>
+    <option allowSourcePathOverlap="False"/>
+    <option verboseStackTraces="False"/>
+    <option showDeprecationWarnings="True"/>
+    <option benchmark="False"/>
+    <option linkReport=""/>
+    <option showUnusedTypeSelectorWarnings="True"/>
+  </build>
+  <mavenBuild>
+    <option mavenBuildPath="."/>
+    <option dominoNotesPlatform=""/>
+    <option commandLine=""/>
+    <option settingsFilePath=""/>
+    <option dominoNotesProgram=""/>
+    <actions>
+      <action actionName="Build" action="install"/>
+      <action actionName="Clean and package" action="clean package"/>
+      <action actionName="Clean" action="clean"/>
+      <action actionName="Clean and Build" action="clean install"/>
+      <action actionName="Exploded" action="war:exploded"/>
+    </actions>
+  </mavenBuild>
+  <includeLibraries></includeLibraries>
+  <libraryPaths></libraryPaths>
+  <externalLibraryPaths></externalLibraryPaths>
+  <rslPaths></rslPaths>
+  <intrinsics></intrinsics>
+  <library>
+    
+    
+  </library>
+  <modules/>
+  <compileTargets>
+    <compile path="src/Client.as"/>
+  </compileTargets>
+  <hiddenPaths></hiddenPaths>
+  <preBuildCommand>null</preBuildCommand>
+  <postBuildCommand alwaysRun="False">null</postBuildCommand>
+  <trustSVNCertificate>False</trustSVNCertificate>
+  <options>
+    <option jdkType="default-java"/>
+    <option isDominoVisualEditor="False"/>
+    <option testMovie="AIR"/>
+    <option showHiddenPaths="False"/>
+    <option testMovieCommand=""/>
+    <option isExportedToExistingSource="False"/>
+    <option isPrimeFacesVisualEditor="False"/>
+    <option defaultBuildTargets=""/>
+    <option isRoyale="False"/>
+    <option visualEditorExportPath=""/>
+  </options>
+  <moonshineRunCustomization>
+    <option targetPlatform="1"/>
+    <option launchMethod="Simulator"/>
+    <option urlToLaunch=""/>
+    <option deviceConnectType="USB"/>
+    <option customUrlToLaunch=""/>
+    <option webBrowser="null"/>
+    <option projectType="1"/>
+    <option deviceSimulator="null"/>
+    <deviceSimulator>null</deviceSimulator>
+    <certAndroid>null</certAndroid>
+    <certIos>null</certIos>
+    <certIosProvisioning>null</certIosProvisioning>
+  </moonshineRunCustomization>
+</project>

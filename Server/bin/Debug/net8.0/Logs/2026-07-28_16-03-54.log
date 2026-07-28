@@ -1,0 +1,392 @@
+[2026-07-28 16:01:54] [SERVER] Logger initialized.
+[2026-07-28 16:01:54] [INFO] Server starting...
+[2026-07-28 16:01:54] [INFO] Server ready.
+[2026-07-28 16:01:54] [INFO] Game loop started.
+[2026-07-28 16:01:54] [INFO] HTTP listening on http://localhost:8080/
+[2026-07-28 16:02:09] [INFO] Packet received: {"Type":"Login","PlayerId":"001","Version":"0.1.9.2"}
+[2026-07-28 16:02:09] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:09] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:09] [INFO] Authenticated: False
+[2026-07-28 16:02:10] [INFO] 001 mined 1 satoshi. Total: 6044
+[2026-07-28 16:02:10] [INFO] 001 mined 10 satoshi. Total: 6054
+[2026-07-28 16:02:10] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:10] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:10] [INFO] Authenticated: True
+[2026-07-28 16:02:11] [INFO] 001 mined 1 satoshi. Total: 6055
+[2026-07-28 16:02:11] [INFO] 001 mined 10 satoshi. Total: 6065
+[2026-07-28 16:02:11] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:11] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:11] [INFO] Authenticated: True
+[2026-07-28 16:02:12] [INFO] 001 mined 1 satoshi. Total: 6066
+[2026-07-28 16:02:12] [INFO] 001 mined 10 satoshi. Total: 6076
+[2026-07-28 16:02:12] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:12] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:12] [INFO] Authenticated: True
+[2026-07-28 16:02:13] [INFO] 001 mined 1 satoshi. Total: 6077
+[2026-07-28 16:02:13] [INFO] 001 mined 10 satoshi. Total: 6087
+[2026-07-28 16:02:13] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:13] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:13] [INFO] Authenticated: True
+[2026-07-28 16:02:14] [INFO] 001 mined 1 satoshi. Total: 6088
+[2026-07-28 16:02:14] [INFO] 001 mined 10 satoshi. Total: 6098
+[2026-07-28 16:02:14] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:14] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:14] [INFO] Authenticated: True
+[2026-07-28 16:02:15] [INFO] 001 mined 1 satoshi. Total: 6099
+[2026-07-28 16:02:15] [INFO] 001 mined 10 satoshi. Total: 6109
+[2026-07-28 16:02:15] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:15] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:15] [INFO] Authenticated: True
+[2026-07-28 16:02:16] [INFO] 001 mined 1 satoshi. Total: 6110
+[2026-07-28 16:02:16] [INFO] 001 mined 10 satoshi. Total: 6120
+[2026-07-28 16:02:16] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:16] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:16] [INFO] Authenticated: True
+[2026-07-28 16:02:17] [INFO] 001 mined 1 satoshi. Total: 6121
+[2026-07-28 16:02:17] [INFO] 001 mined 10 satoshi. Total: 6131
+[2026-07-28 16:02:17] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:17] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:17] [INFO] Authenticated: True
+[2026-07-28 16:02:18] [INFO] 001 mined 1 satoshi. Total: 6132
+[2026-07-28 16:02:18] [INFO] 001 mined 10 satoshi. Total: 6142
+[2026-07-28 16:02:18] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:18] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:18] [INFO] Authenticated: True
+[2026-07-28 16:02:19] [INFO] 001 mined 1 satoshi. Total: 6143
+[2026-07-28 16:02:19] [INFO] 001 mined 10 satoshi. Total: 6153
+[2026-07-28 16:02:19] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:19] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:19] [INFO] Authenticated: True
+[2026-07-28 16:02:20] [INFO] 001 mined 1 satoshi. Total: 6154
+[2026-07-28 16:02:20] [INFO] 001 mined 10 satoshi. Total: 6164
+[2026-07-28 16:02:20] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:20] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:20] [INFO] Authenticated: True
+[2026-07-28 16:02:21] [INFO] 001 mined 1 satoshi. Total: 6165
+[2026-07-28 16:02:21] [INFO] 001 mined 10 satoshi. Total: 6175
+[2026-07-28 16:02:21] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:21] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:21] [INFO] Authenticated: True
+[2026-07-28 16:02:22] [INFO] 001 mined 1 satoshi. Total: 6176
+[2026-07-28 16:02:22] [INFO] 001 mined 10 satoshi. Total: 6186
+[2026-07-28 16:02:22] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:22] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:22] [INFO] Authenticated: True
+[2026-07-28 16:02:23] [INFO] 001 mined 1 satoshi. Total: 6187
+[2026-07-28 16:02:23] [INFO] 001 mined 10 satoshi. Total: 6197
+[2026-07-28 16:02:23] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:23] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:23] [INFO] Authenticated: True
+[2026-07-28 16:02:24] [INFO] 001 mined 1 satoshi. Total: 6198
+[2026-07-28 16:02:24] [INFO] 001 mined 10 satoshi. Total: 6208
+[2026-07-28 16:02:24] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:24] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:24] [INFO] Authenticated: True
+[2026-07-28 16:02:25] [INFO] 001 mined 1 satoshi. Total: 6209
+[2026-07-28 16:02:25] [INFO] 001 mined 10 satoshi. Total: 6219
+[2026-07-28 16:02:25] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:25] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:25] [INFO] Authenticated: True
+[2026-07-28 16:02:26] [INFO] 001 mined 1 satoshi. Total: 6220
+[2026-07-28 16:02:26] [INFO] 001 mined 10 satoshi. Total: 6230
+[2026-07-28 16:02:26] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:26] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:26] [INFO] Authenticated: True
+[2026-07-28 16:02:27] [INFO] 001 mined 1 satoshi. Total: 6231
+[2026-07-28 16:02:27] [INFO] 001 mined 10 satoshi. Total: 6241
+[2026-07-28 16:02:27] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:27] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:27] [INFO] Authenticated: True
+[2026-07-28 16:02:28] [INFO] 001 mined 1 satoshi. Total: 6242
+[2026-07-28 16:02:28] [INFO] 001 mined 10 satoshi. Total: 6252
+[2026-07-28 16:02:28] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:28] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:28] [INFO] Authenticated: True
+[2026-07-28 16:02:29] [INFO] 001 mined 1 satoshi. Total: 6253
+[2026-07-28 16:02:29] [INFO] 001 mined 10 satoshi. Total: 6263
+[2026-07-28 16:02:29] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:29] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:29] [INFO] Authenticated: True
+[2026-07-28 16:02:30] [INFO] 001 mined 1 satoshi. Total: 6264
+[2026-07-28 16:02:30] [INFO] 001 mined 10 satoshi. Total: 6274
+[2026-07-28 16:02:30] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:30] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:30] [INFO] Authenticated: True
+[2026-07-28 16:02:31] [INFO] 001 mined 1 satoshi. Total: 6275
+[2026-07-28 16:02:31] [INFO] 001 mined 10 satoshi. Total: 6285
+[2026-07-28 16:02:31] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:31] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:31] [INFO] Authenticated: True
+[2026-07-28 16:02:32] [INFO] 001 mined 1 satoshi. Total: 6286
+[2026-07-28 16:02:32] [INFO] 001 mined 10 satoshi. Total: 6296
+[2026-07-28 16:02:32] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:32] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:32] [INFO] Authenticated: True
+[2026-07-28 16:02:33] [INFO] 001 mined 1 satoshi. Total: 6297
+[2026-07-28 16:02:33] [INFO] 001 mined 10 satoshi. Total: 6307
+[2026-07-28 16:02:33] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:33] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:33] [INFO] Authenticated: True
+[2026-07-28 16:02:34] [INFO] 001 mined 1 satoshi. Total: 6308
+[2026-07-28 16:02:34] [INFO] 001 mined 10 satoshi. Total: 6318
+[2026-07-28 16:02:35] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:35] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:35] [INFO] Authenticated: True
+[2026-07-28 16:02:35] [INFO] 001 mined 1 satoshi. Total: 6319
+[2026-07-28 16:02:35] [INFO] 001 mined 10 satoshi. Total: 6329
+[2026-07-28 16:02:36] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:36] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:36] [INFO] Authenticated: True
+[2026-07-28 16:02:36] [INFO] 001 mined 1 satoshi. Total: 6330
+[2026-07-28 16:02:36] [INFO] 001 mined 10 satoshi. Total: 6340
+[2026-07-28 16:02:37] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:37] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:37] [INFO] Authenticated: True
+[2026-07-28 16:02:37] [INFO] 001 mined 1 satoshi. Total: 6341
+[2026-07-28 16:02:37] [INFO] 001 mined 10 satoshi. Total: 6351
+[2026-07-28 16:02:38] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:38] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:38] [INFO] Authenticated: True
+[2026-07-28 16:02:38] [INFO] 001 mined 1 satoshi. Total: 6352
+[2026-07-28 16:02:38] [INFO] 001 mined 10 satoshi. Total: 6362
+[2026-07-28 16:02:39] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:39] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:39] [INFO] Authenticated: True
+[2026-07-28 16:02:39] [INFO] 001 mined 1 satoshi. Total: 6363
+[2026-07-28 16:02:39] [INFO] 001 mined 10 satoshi. Total: 6373
+[2026-07-28 16:02:40] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:40] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:40] [INFO] Authenticated: True
+[2026-07-28 16:02:40] [INFO] 001 mined 1 satoshi. Total: 6374
+[2026-07-28 16:02:40] [INFO] 001 mined 10 satoshi. Total: 6384
+[2026-07-28 16:02:41] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:41] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:41] [INFO] Authenticated: True
+[2026-07-28 16:02:41] [INFO] 001 mined 1 satoshi. Total: 6385
+[2026-07-28 16:02:41] [INFO] 001 mined 10 satoshi. Total: 6395
+[2026-07-28 16:02:42] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:42] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:42] [INFO] Authenticated: True
+[2026-07-28 16:02:42] [INFO] 001 mined 1 satoshi. Total: 6396
+[2026-07-28 16:02:42] [INFO] 001 mined 10 satoshi. Total: 6406
+[2026-07-28 16:02:43] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:43] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:43] [INFO] Authenticated: True
+[2026-07-28 16:02:43] [INFO] 001 mined 1 satoshi. Total: 6407
+[2026-07-28 16:02:43] [INFO] 001 mined 10 satoshi. Total: 6417
+[2026-07-28 16:02:44] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:44] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:44] [INFO] Authenticated: True
+[2026-07-28 16:02:44] [INFO] 001 mined 1 satoshi. Total: 6418
+[2026-07-28 16:02:44] [INFO] 001 mined 10 satoshi. Total: 6428
+[2026-07-28 16:02:45] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:45] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:45] [INFO] Authenticated: True
+[2026-07-28 16:02:45] [INFO] 001 mined 1 satoshi. Total: 6429
+[2026-07-28 16:02:45] [INFO] 001 mined 10 satoshi. Total: 6439
+[2026-07-28 16:02:46] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:46] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:46] [INFO] Authenticated: True
+[2026-07-28 16:02:46] [INFO] 001 mined 1 satoshi. Total: 6440
+[2026-07-28 16:02:46] [INFO] 001 mined 10 satoshi. Total: 6450
+[2026-07-28 16:02:47] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:47] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:47] [INFO] Authenticated: True
+[2026-07-28 16:02:47] [INFO] 001 mined 1 satoshi. Total: 6451
+[2026-07-28 16:02:47] [INFO] 001 mined 10 satoshi. Total: 6461
+[2026-07-28 16:02:48] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:48] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:48] [INFO] Authenticated: True
+[2026-07-28 16:02:48] [INFO] 001 mined 1 satoshi. Total: 6462
+[2026-07-28 16:02:48] [INFO] 001 mined 10 satoshi. Total: 6472
+[2026-07-28 16:02:49] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:49] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:49] [INFO] Authenticated: True
+[2026-07-28 16:02:49] [INFO] 001 mined 1 satoshi. Total: 6473
+[2026-07-28 16:02:49] [INFO] 001 mined 10 satoshi. Total: 6483
+[2026-07-28 16:02:50] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:50] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:50] [INFO] Authenticated: True
+[2026-07-28 16:02:50] [INFO] 001 mined 1 satoshi. Total: 6484
+[2026-07-28 16:02:50] [INFO] 001 mined 10 satoshi. Total: 6494
+[2026-07-28 16:02:51] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:51] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:51] [INFO] Authenticated: True
+[2026-07-28 16:02:51] [INFO] 001 mined 1 satoshi. Total: 6495
+[2026-07-28 16:02:51] [INFO] 001 mined 10 satoshi. Total: 6505
+[2026-07-28 16:02:52] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:52] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:52] [INFO] Authenticated: True
+[2026-07-28 16:02:52] [INFO] 001 mined 1 satoshi. Total: 6506
+[2026-07-28 16:02:52] [INFO] 001 mined 10 satoshi. Total: 6516
+[2026-07-28 16:02:53] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:53] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:53] [INFO] Authenticated: True
+[2026-07-28 16:02:53] [INFO] 001 mined 1 satoshi. Total: 6517
+[2026-07-28 16:02:53] [INFO] 001 mined 10 satoshi. Total: 6527
+[2026-07-28 16:02:54] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:54] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:54] [INFO] Authenticated: True
+[2026-07-28 16:02:54] [INFO] 001 mined 1 satoshi. Total: 6528
+[2026-07-28 16:02:54] [INFO] 001 mined 10 satoshi. Total: 6538
+[2026-07-28 16:02:55] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:55] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:55] [INFO] Authenticated: True
+[2026-07-28 16:02:55] [INFO] 001 mined 1 satoshi. Total: 6539
+[2026-07-28 16:02:55] [INFO] 001 mined 10 satoshi. Total: 6549
+[2026-07-28 16:02:56] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:56] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:56] [INFO] Authenticated: True
+[2026-07-28 16:02:56] [INFO] 001 mined 1 satoshi. Total: 6550
+[2026-07-28 16:02:56] [INFO] 001 mined 10 satoshi. Total: 6560
+[2026-07-28 16:02:57] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:57] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:57] [INFO] Authenticated: True
+[2026-07-28 16:02:57] [INFO] 001 mined 1 satoshi. Total: 6561
+[2026-07-28 16:02:57] [INFO] 001 mined 10 satoshi. Total: 6571
+[2026-07-28 16:02:58] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:58] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:58] [INFO] Authenticated: True
+[2026-07-28 16:02:58] [INFO] 001 mined 1 satoshi. Total: 6572
+[2026-07-28 16:02:58] [INFO] 001 mined 10 satoshi. Total: 6582
+[2026-07-28 16:02:59] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:02:59] [INFO] PlayerSync request: 001
+[2026-07-28 16:02:59] [INFO] Authenticated: True
+[2026-07-28 16:02:59] [INFO] 001 mined 1 satoshi. Total: 6583
+[2026-07-28 16:02:59] [INFO] 001 mined 10 satoshi. Total: 6593
+[2026-07-28 16:03:00] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:00] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:00] [INFO] Authenticated: True
+[2026-07-28 16:03:00] [INFO] 001 mined 1 satoshi. Total: 6594
+[2026-07-28 16:03:00] [INFO] 001 mined 10 satoshi. Total: 6604
+[2026-07-28 16:03:01] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:01] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:01] [INFO] Authenticated: True
+[2026-07-28 16:03:01] [INFO] 001 mined 1 satoshi. Total: 6605
+[2026-07-28 16:03:01] [INFO] 001 mined 10 satoshi. Total: 6615
+[2026-07-28 16:03:02] [INFO] 001 mined 1 satoshi. Total: 6616
+[2026-07-28 16:03:02] [INFO] 001 mined 10 satoshi. Total: 6626
+[2026-07-28 16:03:03] [INFO] 001 mined 1 satoshi. Total: 6627
+[2026-07-28 16:03:03] [INFO] 001 mined 10 satoshi. Total: 6637
+[2026-07-28 16:03:04] [INFO] 001 mined 1 satoshi. Total: 6638
+[2026-07-28 16:03:04] [INFO] 001 mined 10 satoshi. Total: 6648
+[2026-07-28 16:03:05] [INFO] 001 mined 1 satoshi. Total: 6649
+[2026-07-28 16:03:05] [INFO] 001 mined 10 satoshi. Total: 6659
+[2026-07-28 16:03:06] [INFO] 001 mined 1 satoshi. Total: 6660
+[2026-07-28 16:03:06] [INFO] 001 mined 10 satoshi. Total: 6670
+[2026-07-28 16:03:07] [INFO] 001 mined 1 satoshi. Total: 6671
+[2026-07-28 16:03:07] [INFO] 001 mined 10 satoshi. Total: 6681
+[2026-07-28 16:03:08] [INFO] 001 mined 1 satoshi. Total: 6682
+[2026-07-28 16:03:08] [INFO] 001 mined 10 satoshi. Total: 6692
+[2026-07-28 16:03:09] [INFO] 001 mined 1 satoshi. Total: 6693
+[2026-07-28 16:03:09] [INFO] 001 mined 10 satoshi. Total: 6703
+[2026-07-28 16:03:10] [INFO] 001 mined 1 satoshi. Total: 6704
+[2026-07-28 16:03:10] [INFO] 001 mined 10 satoshi. Total: 6714
+[2026-07-28 16:03:11] [INFO] 001 mined 1 satoshi. Total: 6715
+[2026-07-28 16:03:11] [INFO] 001 mined 10 satoshi. Total: 6725
+[2026-07-28 16:03:11] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:11] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:11] [INFO] Authenticated: True
+[2026-07-28 16:03:12] [INFO] 001 mined 1 satoshi. Total: 6726
+[2026-07-28 16:03:12] [INFO] 001 mined 10 satoshi. Total: 6736
+[2026-07-28 16:03:12] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:12] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:12] [INFO] Authenticated: True
+[2026-07-28 16:03:13] [INFO] 001 mined 1 satoshi. Total: 6737
+[2026-07-28 16:03:13] [INFO] 001 mined 10 satoshi. Total: 6747
+[2026-07-28 16:03:13] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:13] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:13] [INFO] Authenticated: True
+[2026-07-28 16:03:14] [INFO] 001 mined 1 satoshi. Total: 6748
+[2026-07-28 16:03:14] [INFO] 001 mined 10 satoshi. Total: 6758
+[2026-07-28 16:03:14] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:14] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:14] [INFO] Authenticated: True
+[2026-07-28 16:03:15] [INFO] 001 mined 1 satoshi. Total: 6759
+[2026-07-28 16:03:15] [INFO] 001 mined 10 satoshi. Total: 6769
+[2026-07-28 16:03:15] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:15] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:15] [INFO] Authenticated: True
+[2026-07-28 16:03:16] [INFO] 001 mined 1 satoshi. Total: 6770
+[2026-07-28 16:03:16] [INFO] 001 mined 10 satoshi. Total: 6780
+[2026-07-28 16:03:16] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:16] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:16] [INFO] Authenticated: True
+[2026-07-28 16:03:17] [INFO] 001 mined 1 satoshi. Total: 6781
+[2026-07-28 16:03:17] [INFO] 001 mined 10 satoshi. Total: 6791
+[2026-07-28 16:03:17] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:17] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:17] [INFO] Authenticated: True
+[2026-07-28 16:03:18] [INFO] 001 mined 1 satoshi. Total: 6792
+[2026-07-28 16:03:18] [INFO] 001 mined 10 satoshi. Total: 6802
+[2026-07-28 16:03:19] [INFO] 001 mined 1 satoshi. Total: 6803
+[2026-07-28 16:03:19] [INFO] 001 mined 10 satoshi. Total: 6813
+[2026-07-28 16:03:20] [INFO] 001 mined 1 satoshi. Total: 6814
+[2026-07-28 16:03:20] [INFO] 001 mined 10 satoshi. Total: 6824
+[2026-07-28 16:03:21] [INFO] 001 mined 1 satoshi. Total: 6825
+[2026-07-28 16:03:21] [INFO] 001 mined 10 satoshi. Total: 6835
+[2026-07-28 16:03:22] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:22] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:22] [INFO] Authenticated: True
+[2026-07-28 16:03:22] [INFO] 001 mined 1 satoshi. Total: 6836
+[2026-07-28 16:03:22] [INFO] 001 mined 10 satoshi. Total: 6846
+[2026-07-28 16:03:23] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:23] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:23] [INFO] Authenticated: True
+[2026-07-28 16:03:23] [INFO] 001 mined 1 satoshi. Total: 6847
+[2026-07-28 16:03:23] [INFO] 001 mined 10 satoshi. Total: 6857
+[2026-07-28 16:03:24] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:24] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:24] [INFO] Authenticated: True
+[2026-07-28 16:03:24] [INFO] 001 mined 1 satoshi. Total: 6858
+[2026-07-28 16:03:24] [INFO] 001 mined 10 satoshi. Total: 6868
+[2026-07-28 16:03:25] [INFO] 001 mined 1 satoshi. Total: 6869
+[2026-07-28 16:03:25] [INFO] 001 mined 10 satoshi. Total: 6879
+[2026-07-28 16:03:26] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:26] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:26] [INFO] Authenticated: True
+[2026-07-28 16:03:26] [INFO] 001 mined 1 satoshi. Total: 6880
+[2026-07-28 16:03:26] [INFO] 001 mined 10 satoshi. Total: 6890
+[2026-07-28 16:03:27] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:27] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:27] [INFO] Authenticated: True
+[2026-07-28 16:03:27] [INFO] 001 mined 1 satoshi. Total: 6891
+[2026-07-28 16:03:27] [INFO] 001 mined 10 satoshi. Total: 6901
+[2026-07-28 16:03:28] [INFO] 001 mined 1 satoshi. Total: 6902
+[2026-07-28 16:03:28] [INFO] 001 mined 10 satoshi. Total: 6912
+[2026-07-28 16:03:29] [INFO] 001 mined 1 satoshi. Total: 6913
+[2026-07-28 16:03:29] [INFO] 001 mined 10 satoshi. Total: 6923
+[2026-07-28 16:03:30] [INFO] 001 mined 1 satoshi. Total: 6924
+[2026-07-28 16:03:30] [INFO] 001 mined 10 satoshi. Total: 6934
+[2026-07-28 16:03:31] [INFO] 001 mined 1 satoshi. Total: 6935
+[2026-07-28 16:03:31] [INFO] 001 mined 10 satoshi. Total: 6945
+[2026-07-28 16:03:32] [INFO] 001 mined 1 satoshi. Total: 6946
+[2026-07-28 16:03:32] [INFO] 001 mined 10 satoshi. Total: 6956
+[2026-07-28 16:03:33] [INFO] 001 mined 1 satoshi. Total: 6957
+[2026-07-28 16:03:33] [INFO] 001 mined 10 satoshi. Total: 6967
+[2026-07-28 16:03:34] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:34] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:34] [INFO] Authenticated: True
+[2026-07-28 16:03:34] [INFO] 001 mined 1 satoshi. Total: 6968
+[2026-07-28 16:03:34] [INFO] 001 mined 10 satoshi. Total: 6978
+[2026-07-28 16:03:35] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:35] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:35] [INFO] Authenticated: True
+[2026-07-28 16:03:35] [INFO] 001 mined 1 satoshi. Total: 6979
+[2026-07-28 16:03:35] [INFO] 001 mined 10 satoshi. Total: 6989
+[2026-07-28 16:03:36] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:36] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:36] [INFO] Authenticated: True
+[2026-07-28 16:03:36] [INFO] 001 mined 1 satoshi. Total: 6990
+[2026-07-28 16:03:36] [INFO] 001 mined 10 satoshi. Total: 7000
+[2026-07-28 16:03:37] [INFO] Packet received: {"Type":"PlayerSync","PlayerId":"001"}
+[2026-07-28 16:03:37] [INFO] PlayerSync request: 001
+[2026-07-28 16:03:37] [INFO] Authenticated: True
+[2026-07-28 16:03:37] [INFO] 001 mined 1 satoshi. Total: 7001
+[2026-07-28 16:03:37] [INFO] 001 mined 10 satoshi. Total: 7011
+[2026-07-28 16:03:38] [INFO] 001 mined 1 satoshi. Total: 7012
+[2026-07-28 16:03:38] [INFO] 001 mined 10 satoshi. Total: 7022
+[2026-07-28 16:03:39] [INFO] 001 mined 1 satoshi. Total: 7023
+[2026-07-28 16:03:39] [INFO] 001 mined 10 satoshi. Total: 7033
+[2026-07-28 16:03:40] [INFO] 001 mined 1 satoshi. Total: 7034
+[2026-07-28 16:03:40] [INFO] 001 mined 10 satoshi. Total: 7044
